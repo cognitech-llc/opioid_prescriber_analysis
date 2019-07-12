@@ -83,15 +83,14 @@ Only 19 states report overdose details beyond total # of deaths and total # of o
 
 * The analysis shows that there are 5 main opioid manufacturers in US.
 
- ![Opioid Manufacturer](Preeti/opioid_payments_by_manufacturer.png)
+ ![Opioid Manufacturer](Images/opioid_payments_by_manufacturer.png)
 
 
 * "Colorado" tops the list of US states receiving the most payments from pharmaceutical manufacturers.
 
 **LIMITATION OF PROJECT**
 
-"The study having limitations are inspirations to others or self analysis".
-There were many limitations of the present study.
+There were a few limitations of the present study, namely:
 
-* *Time limit* . If time permits the present data can be compared with either any other country with low drug over dose deaths for detailed analysis of possible reasons.
-* The age data was not available for studying the drug overdose deaths by age.
+* *Time limit* for analysis. If further time were dedicated to the analysis, the present data could be compared with any other country with low drug overdose deaths for detailed analysis of possible reasons for the overdoses.
+* Age data was not available for studying the drug overdose deaths by age.
